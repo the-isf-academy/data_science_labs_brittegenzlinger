@@ -1,0 +1,13 @@
+,title,artist,album,popularity,explicit,genre,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,release_date,length_of_song,date_streamed,time_streamed,length_time_listened
+0,"Rhapsody on a Theme of Paganini, Op. 43: Variation No. 6 - Live",Sergei Rachmaninoff,Rachmaninov: Piano Concerto No.2; Rhapsody on a Theme of Paganini; Prelude op.23,14,False,classical,0.283,0.0535,-27.95,0.0418,0.99,0.712,0.179,0.145,92.645,2005-01-01,67506,2022-08-25,12:26,44633
+1,Temmie Village,Toby Fox,UNDERTALE Soundtrack,45,False,indie game soundtrack,0.904,0.23,-20.174,0.178,0.922,0.0,0.111,0.971,84.013,2015-09-15,57857,2022-10-29,16:56,57857
+2,Eternal Waves (Lift Theme),Crazyblox,Flood Escape 2 Part 2 (Complete Original Soundtrack),21,False,,0.522,0.666,-8.504,0.0322,0.00236,0.897,0.398,0.0393,120.021,2022-09-16,239997,2022-12-17,12:26,239997
+3,Frühlingsglaube (Arr. Franz Liszt),Franz Schubert,Tchaikovsky: Piano Concerto No. 1,58,False,classical,0.227,0.00482,-36.351,0.036,0.993,0.912,0.157,0.0731,70.684,2012-08-28,216284,2022-08-18,21:31,216183
+4,Innocence Glitched (Basement),Mudeth,Antibirth,39,False,bangalore indie,0.552,0.669,-6.556,0.0297,0.00656,0.0392,0.118,0.225,119.988,2016-12-24,329114,2022-12-10,14:21,191
+5,"Rhapsody on a Theme of Paganini, Op. 43: Variation 7",Sergei Rachmaninoff,London Symphony Orchestra: Rachmaninoff & Rimsky-Korsakov,5,False,classical,0.346,0.00205,-32.226,0.0364,0.984,0.916,0.0843,0.48,153.474,2023-02-03,67253,2022-09-25,03:30,76986
+6,"Piano Concerto No. 2 in C Minor, Op. 18: 2. Adagio sostenuto",Sergei Rachmaninoff,Rachmaninov: Piano Concerto No.2,58,False,classical,0.194,0.0545,-24.877,0.0366,0.983,0.945,0.0551,0.0385,140.966,2012-01-01,644272,2022-08-29,15:30,160704
+7,"Keyboard Sonata in F Minor, K.466/L.118/P.501: Andante",Domenico Scarlatti,"Scarlatti, D.: Keyboard Sonatas",19,False,baroque,0.353,0.0248,-32.761,0.0406,0.994,0.892,0.0591,0.109,85.563,2005-01-01,471706,2022-08-23,17:34,471664
+8,"Prélude in C-Sharp Minor Op. 3 No. 2 ""The Bells of Moscow""",Sergei Rachmaninoff,"Prélude in C-Sharp Minor Op. 3 No. 2 ""The Bells of Moscow""",3,False,classical,0.53,0.0805,-20.722,0.0709,0.966,0.832,0.103,0.0622,69.046,2023-02-03,234532,2022-08-23,21:59,7777
+9,"Mozart, Volodos: 3. Alla Turca (Allegretto)",Wolfgang Amadeus Mozart,The Music of Mozart,37,False,classical,0.444,0.258,-20.156,0.0322,0.979,0.833,0.0832,0.732,125.039,2020-04-25,171320,2022-09-21,01:05,171320
+10,Energy Crystal,Starbreak,Energy Crystal,5,False,rhythm game,0.41,0.86,-9.874,0.0432,0.0377,0.00479,0.0866,0.373,170.024,2020-12-15,347294,2022-08-18,00:55,82112
+11,KVXSS,Uamee,KVXSS,26,False,hard bass,0.612,0.971,-2.628,0.0405,0.445,0.571,0.084,0.946,155.01,2022-06-07,128516,2022-08-23,10:26,2415
